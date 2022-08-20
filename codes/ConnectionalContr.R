@@ -1,4 +1,6 @@
 # Paper: Pattern of frustration formation in the functional brain network
+# DOI: https://doi.org/10.1162/netn_a_00268
+# Journal: Network Neuroscience
 # Usage: ConnectionalContr.r
 # Date: 5/6/2022
 # Author: Majid Saberi
